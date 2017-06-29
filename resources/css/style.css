@@ -5,11 +5,13 @@
 h1{
   font-size: 75px;
 }
-.textOnBackground, a{
-  color: red;
+.headers, a{
+  color: white;
+  background-image: url('../images/the-flatiron-building.png');
 }
 .footer{
   text-align: left;
+  background-color: gray;
 }
 span{
   font-size: 11px;
