@@ -1,6 +1,8 @@
 *{
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  padding-top: 0;
+  margin-top: 0;
 }
 h1{
   font-size: 75px;
@@ -15,7 +17,7 @@ a{
   color: white;
   background-image: url('../images/the-flatiron-building.png');
 }
-.footer > p{
+.footer  p{
   color: white;
   text-align: left;
   background-color: gray;
